@@ -4,7 +4,7 @@
         src="img/apple-green-empress-gazing-playfully-upon-her-subjects.png"
         alt="Apple Green Empress Gazing Playfully Upon Her Subjects"
         width="100%"
-        height="500"
+        height="550"
     >
 </div>
 
