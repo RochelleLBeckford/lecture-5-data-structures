@@ -4,7 +4,7 @@
         src="img/apple-green-empress-gazing-playfully-upon-her-subjects.png"
         alt="Apple Green Empress Gazing Playfully Upon Her Subjects"
         width="100%"
-        height="450"
+        height="500"
     >
 </div>
 
@@ -323,4 +323,4 @@
 - [ ] <b>Terminal/Command Line:</b>
     - [ ] Where I compile my programs with `make`, execute them with `./program-name`, and pass command-line arguments directly to my programs turning my code into action. It is where my code comes to life.
 - [ ] <b>VS Code:</b>
-    - [ ] This is my coding sanctuary. a lightweight but powerful source code editor that provides an integrated terminal, syntax highlighting, extensions for writing and extensions for writing and testing code efficiently. 
+    - [ ] This is my coding sanctuary. a lightweight but powerful source code editor that provides an integrated terminal, syntax highlighting, extensions for writing and extensions for writing and testing code efficiently.
